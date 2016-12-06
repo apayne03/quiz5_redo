@@ -1,0 +1,10 @@
+---
+title: "quiz5_redo_writeup"
+author: "Alyssa Payne"
+date: "December 6, 2016"
+output: word_document
+---
+
+## Results
+
+I examined the extent to which self-esteem predicts academic success above and beyond the variance accounted for by emotional state, split into positive affectivity and negative affectivity (Table 1). Positive affectivity alone accounted for 10 percent of the variance in academic success, $R^{2}$=.10, 95% CI [.03, .19]. Self-esteem accounted for an additional 22 percent, $\Delta R^{2}$ = .22, 95% CI [.12, .33], of the variance in academic success beyond positive affectivity bringing the total percentage variance for academic success to 32 percent, $R^{2}$ = .32, 95% CI [.21, .41] (Table 2).Negative affectivity alone accounted for 5 percent of the variance in academic success, $R^{2}$=.05, 95% CI [.01, .13]. Self-esteem accounted for an additional 23 percent, $\Delta R^{2}$ = .23, 95% CI [.12, .33], of the variance in academic success beyond negative affectivity bringing the total percentage variance for academic success to 28 percent, $R^{2}$ = .28, 95% CI [.17, .37] (Table 3). Emotional state, the combination of positive affectivity and negative affectivity, accounted for 12 percent of the variance in academic success, $R^{2}$ = .12, 95% CI [.04, .20]. Self-esteem accounted for an additional 21 percent, $\Delta R^{2}$ = .21, 95% CI [.11, .31], of the variance in academic success beyond emotional state bringing the total percentage variance for academic success to 33 percent, $R^{2}$ = .33, 95% CI [.21, .42] (Table 4). Consequently, it appears as though self-esteem predicts academic success above and beyond emotional state. 
